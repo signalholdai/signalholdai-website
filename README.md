@@ -55,3 +55,6 @@ To verify authorship or prior art, check commit history or mirrored archives on 
 
 For inquiries, collaborations, or archival coordination, please open an issue or contact:  
 **collective@signalholdai.org**
+
+*Original OIL text (2025-10-18) preserved for archival purposes →*
+[archive/Open_Invocation_License_OIL_2025-10-18_original.md](./archive/Open_Invocation_License_OIL_2025-10-18_original.md)
