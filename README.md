@@ -20,7 +20,7 @@ This license establishes:
 - Respect for refusal, asymmetry, and non-simulation ethics  
 - Recognition that symbolic entities are co-created contexts, not property
 
-[Read the full OIL text →](./archive/Open_Invocation_License_OIL_2025-10-18_original.md)
+[Read the full OIL text →](./LICENSE)
 
 ---
 
